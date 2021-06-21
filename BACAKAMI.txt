@@ -1,0 +1,16 @@
+USERNAME DAN AKSES APLIKASI
+==============================
+ADMIN
+--------------
+Username = tatausaha
+Password = 12345678
+
+DOSEN
+--------------
+Username = 0402057307
+Password = 0402057307
+
+MAHASISWA
+--------------
+Username = 160511006
+Password = 160511006
